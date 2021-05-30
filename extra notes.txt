@@ -1,0 +1,21 @@
+Python	=> AWS 	 likhen
+Typescript => CDK code likhen (infrastructure code bcz we hv intellisence in ts)
+
+Cloud -> Serverless
+1.1 - wo services AWS ki jinka model pehle sy bana hua he wo use kren, uski kitab b aagai he -> AI as A service (Book) => this will be followed
+1.2 - Application CRUD graph databases -> import into sagemaker -> usi sy wahan model banana sekhen -> tenserflow sy deal kren.
+1.3 - There is automatic somthng AI in sagemaker with ref. to graph databases (bad me ye pehle sequence smj rahe)
+
+Graph Databases
+-> CDK
+-> Code
+-> It can be conntected through Sagemaker
+-> AI on Edge thru Green Grass.
+
+Sagemaker (after creating model)
+
+Tensorflow
+Rust Embedded programming on Edge.
+
+
+
